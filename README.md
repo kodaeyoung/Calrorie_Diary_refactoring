@@ -8,7 +8,15 @@
 
 - ### 개발 상세 및 기능은 칼로리 다이어리.pdf를 참고
 
-## 테이블 쿼리
+## 테이블
+
+### 초기 구상 ERD
+
+![](https://github.com/kodaeyoung/Calrorie_Diary_refactoring/blob/main/ERD.png)
+
+### 최종 ERD
+
+![](https://github.com/kodaeyoung/Calrorie_Diary_refactoring/blob/main/ERD2.png)
 
 **음식 추천 테이블**
 
