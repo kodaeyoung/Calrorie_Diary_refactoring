@@ -1,5 +1,6 @@
 # Calrorie_Diary_refactoring
-### 해당 업로드된 프로젝트는 2023년 개발 된 Calorie_Diary 프로젝트의 리팩토링 버전입니다.
+### 해당 업로드된 프로젝트는 2023년 개발한 Calorie_Diary 프로젝트의 코드 리팩토링 버전입니다.
+[원본 레포지토리 가기](https://github.com/HoyiTT/2023_Calorie_Diary?tab=readme-ov-file)
 
 ## 프로젝트 배경 및 목적
 - 코로나 19 이후 사람들의 불균형한 영양 섭취 문제를 해결한다.
